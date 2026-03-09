@@ -17,3 +17,5 @@ El curso cubre desde los fundamentos de la IA generativa y el prompt engineering
 - **Requisitos:** Python básico, interés en IA
 
 Basado en el repositorio del curso [davila7/Ingenier-a-de-Soluciones-con-Inteligencia-Artificial](https://github.com/davila7/Ingenier-a-de-Soluciones-con-Inteligencia-Artificial/tree/main)
+
+Les pido que puedan leer la presentación Clase 1.1.pptx de la Clase 1.1 de Experiencia de Aprendizaje 1 - Fundamentos de AI Generativa y Prompt Engineering.
