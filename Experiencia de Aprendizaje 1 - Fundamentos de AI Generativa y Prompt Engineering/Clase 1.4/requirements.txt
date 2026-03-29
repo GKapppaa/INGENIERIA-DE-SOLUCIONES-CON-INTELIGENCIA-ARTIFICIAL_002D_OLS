@@ -1,0 +1,12 @@
+openai
+pymongo
+streamlit
+markitdown[pdf]
+gitpython
+langchain
+langchain-openai
+langchain-mongodb
+python-dotenv
+langsmith
+ragas
+datasets
